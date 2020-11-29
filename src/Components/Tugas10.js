@@ -45,7 +45,7 @@ class Sample extends Component{
       sasdsadasdhasdhsuadhsaudhasudhusahdusahdusaudhsauhdsadhasudhausdh
       asdihsadu</p>
 
-      <Button color='green' style={{marginTop:'20px'}}icon='plus' content='Tambah Tautan Ke List' />
+      <Button color='green' style={{marginTop:'20px',marginBottom:'20px'}}icon='plus' content='Tambah Tautan Ke List' />
       </Container>
 
 

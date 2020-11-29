@@ -1,10 +1,9 @@
-import Sample from './Components/Tugas10';
-
+import StartUpForm from './Components/Form';
 
 export default function App() {
   return (
     <div>
-      <Sample />
+      <StartUpForm />
     </div>
   );
 }
