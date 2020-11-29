@@ -10,10 +10,10 @@ export default function StartUpForm(){
         <Segment>
           <Form>
             <Form.Field>
-              <Input placeholder='First Name' icon='user'iconPosition='left' type='text'/>
+              <Input placeholder='Username' icon='user'iconPosition='left' type='text'/>
             </Form.Field>
             <Form.Field>
-              <Input placeholder='Last Name' icon='lock' iconPosition='left' type='text'/>
+              <Input placeholder='Password' icon='lock' iconPosition='left' type='password'/>
             </Form.Field>
             <Form.Field>
               <Checkbox label='I agree to the Terms and Condition' />
